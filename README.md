@@ -1,1 +1,1 @@
-# CS3520_Project_Symbolic_Programming
+# CS3520 - Symbolic Programming Project
